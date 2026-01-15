@@ -1,0 +1,37 @@
+rajat_enterprises/
+├── frontend/
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js
+│   ├── tailwind.config.js
+│   ├── postcss.config.js
+│   ├── FOLDER_STRUCTURE.txt
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       ├── index.css
+│       ├── components/
+│       │   ├── Navbar.jsx
+│       │   └── Footer.jsx
+│       └── pages/
+│           ├── Home.jsx
+│           ├── AboutUs.jsx
+│           ├── CoreServices.jsx
+│           ├── Projects.jsx
+│           ├── Compliance.jsx
+│           └── Contact.jsx
+└── backend/
+    (empty - for future backend implementation)
+
+
+
+
+
+
+
+
+
+
+
+
+
